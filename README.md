@@ -113,7 +113,7 @@ https://github.com/BandhavyaKS
 
 **LinkedIn**
 
-https://www.linkedin.com/in/bandhavya-k-s-520528328/
+https://www.linkedin.com/in/bandhavya-k-shivaprasad
 
 **Project Repository**
 
