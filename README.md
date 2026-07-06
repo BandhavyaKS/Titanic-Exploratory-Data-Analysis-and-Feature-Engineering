@@ -1,7 +1,7 @@
 # 🚢 Titanic Exploratory Data Analysis & Feature Engineering
 
 <p align="center">
-  <img src="dashboard.png" alt="Titanic Dashboard" width="100%">
+  <img src="TITANIC_DASHBOARD.png" alt="Titanic Dashboard" width="100%">
 </p>
 
 ## 📌 Project Overview
